@@ -1,4 +1,4 @@
-# OrientationIA - Application d'Orientation des Élèves par Passion
+# Conseillère d'orientation - Application d'Orientation des Élèves par Passion
 
 ## Principe de l'application
 
