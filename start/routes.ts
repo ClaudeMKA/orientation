@@ -12,3 +12,4 @@ import PassionController from "#controllers/passions_controller";
 
 
 router.post("/register", [PassionController, 'handleRequest'] as any);
+router.post("/add_phrase", [PassionController, 'addPhraseAndTrain'] as any);
